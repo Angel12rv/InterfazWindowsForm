@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazWindowsForm", "Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazGraficaDinamica", "..\InterfazGraficaDinamica\InterfazGraficaDinamica.csproj", "{0AEF6F3D-2C97-44B0-A22B-7A2F340927AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBotonNava", "..\PruebaBotonNava\PruebaBotonNava.csproj", "{F578047F-5152-46F6-B720-3B94121E6430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentesPersonalizados1", "..\ComponentesPersonalizados1\ComponentesPersonalizados1.csproj", "{016E0BD0-A472-4EEA-A4C0-91302D6CC2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbarComponentes", "..\ProbarComponentes\ProbarComponentes.csproj", "{612B8B41-338E-40CF-8D85-3908639A8FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{0AEF6F3D-2C97-44B0-A22B-7A2F340927AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEF6F3D-2C97-44B0-A22B-7A2F340927AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEF6F3D-2C97-44B0-A22B-7A2F340927AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F578047F-5152-46F6-B720-3B94121E6430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F578047F-5152-46F6-B720-3B94121E6430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F578047F-5152-46F6-B720-3B94121E6430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F578047F-5152-46F6-B720-3B94121E6430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016E0BD0-A472-4EEA-A4C0-91302D6CC2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016E0BD0-A472-4EEA-A4C0-91302D6CC2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016E0BD0-A472-4EEA-A4C0-91302D6CC2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016E0BD0-A472-4EEA-A4C0-91302D6CC2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612B8B41-338E-40CF-8D85-3908639A8FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612B8B41-338E-40CF-8D85-3908639A8FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612B8B41-338E-40CF-8D85-3908639A8FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612B8B41-338E-40CF-8D85-3908639A8FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
